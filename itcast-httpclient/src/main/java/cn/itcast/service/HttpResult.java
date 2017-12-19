@@ -1,4 +1,4 @@
-package cn.itcast.httpclient;
+package cn.itcast.service;
 
 public class HttpResult {
 

@@ -1,4 +1,4 @@
-package cn.itcast.httpclient;
+package cn.itcast.service;
 
 import java.util.ArrayList;
 import java.util.HashMap;
